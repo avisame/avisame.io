@@ -1,0 +1,26 @@
+{
+  "name": "avisame.io",
+  "version": "1.0.0",
+  "description": "avisame.io website",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avisame/avisame.io.git"
+  },
+  "keywords": [
+    "avisame.io"
+  ],
+  "author": "avisame.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avisame/avisame.io/issues"
+  },
+  "homepage": "https://github.com/avisame/avisame.io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
